@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HistroyToday</string>
+    <string name="history_today">历史上的今天</string>
+    <string name="click_more">点击加载更多</string>
+</resources>
